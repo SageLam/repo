@@ -1,5 +1,5 @@
-#include<iostream>
-#include<vector>
+#in<iostream>
+#in<vector>
 using namespace std;
 int main() {
 	int *time = new int [3];
